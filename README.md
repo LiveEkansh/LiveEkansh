@@ -53,7 +53,7 @@ Occasionally exists~  („• ֊ •„)
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 committed in [NekoYasuii/discord-button-embed](https://github.com/NekoYasuii/discord-button-embed/commit/5c2e075ba240add86bebc8104cab3c598c1045ed)
+1. 🎉 committed in [LiveEkansh/Superb-bots](https://github.com/NekoYasuii/discord-button-embed/commit/5c2e075ba240add86bebc8104cab3c598c1045ed)
 <!--END_SECTION:activity-->
 
 </details>
