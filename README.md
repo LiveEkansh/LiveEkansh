@@ -42,7 +42,7 @@ Occasionally exists~  („• ֊ •„)
 https://discord.c99.nl/widget/theme-3/720857179313274931.png
 
 <a href="https://discord.com/users/720857179313274931">
-<img height="80px" src="https://discord.c99.nl/widget/theme-3/720857179313274931.png" />
+<img height="80px" src="https://discord.c99.nl/widget/theme-1/720857179313274931.png" />
 </a>
 
 ## Spotify Playing <img src="https://cdn.discordapp.com/emojis/574830750180966400.gif?v=1" width="20px">
