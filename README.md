@@ -39,7 +39,11 @@ Occasionally exists~  („• ֊ •„)
 <img height="400px"  src="https://thumbs.gfycat.com/AnxiousMajorBellsnake-size_restricted.gif" />
 </a>
 
+https://discord.c99.nl/widget/theme-3/720857179313274931.png
 
+<a href="https://discord.com/users/720857179313274931">
+<img height="80px" src="https://discord.c99.nl/widget/theme-3/720857179313274931.png" />
+</a>
 
 ## Spotify Playing <img src="https://cdn.discordapp.com/emojis/574830750180966400.gif?v=1" width="20px">
 
