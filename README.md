@@ -34,14 +34,15 @@ Occasionally exists~  („• ֊ •„)
 - <img src="https://cdn.discordapp.com/emojis/752920935077511178.png?v=1" width="15px"> I have made many discord bots.
 - <img src="https://cdn.discordapp.com/emojis/752920935077511178.png?v=1" width="15px"> Fun fact: I love to play games and my favourite game is Detroit : become human :D
 
+<a href="https://discord.com/users/720857179313274931">
+<img height="80px" src="https://discord.c99.nl/widget/theme-3/720857179313274931.png" />
+</a>
 
 <a href="https://discord.com/users/720857179313274931">
 <img height="400px"  src="https://thumbs.gfycat.com/AnxiousMajorBellsnake-size_restricted.gif" />
 </a>
 
-<a href="https://discord.com/users/720857179313274931">
-<img height="80px" src="https://discord.c99.nl/widget/theme-3/720857179313274931.png" />
-</a>
+
 
 ## Spotify Playing <img src="https://cdn.discordapp.com/emojis/574830750180966400.gif?v=1" width="20px">
 
